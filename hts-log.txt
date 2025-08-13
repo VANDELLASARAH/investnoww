@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Aug 2025 05:16:30 at https://gracehaiirandbeauty.vercel.app/contact.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gracehaiirandbeauty.vercel.app/contact.html -O1 "C:\Users\philip godwin\Desktop\goddy\ivest contact" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:17:19	Error: 	"Not Found" (404) at link https://gracehaiirandbeauty.vercel.app/img/logo.jpg (from https://gracehaiirandbeauty.vercel.app/contact.html)
+05:17:43	Error: 	"Not Found" (404) at link https://gracehaiirandbeauty.vercel.app/img/logo.png (from https://gracehaiirandbeauty.vercel.app/contact.html)
+05:17:47	Error: 	"Not Found" (404) at link https://gracehaiirandbeauty.vercel.app/philipgraceike2020@gmail.com (from https://gracehaiirandbeauty.vercel.app/index.html)
+05:17:47	Error: 	"Not Found" (404) at link https://gracehaiirandbeauty.vercel.app/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js (from https://gracehaiirandbeauty.vercel.app/index.html)
+05:17:47	Error: 	"Not Found" (404) at link https://gracehaiirandbeauty.vercel.app/img/about-logo.png (from https://gracehaiirandbeauty.vercel.app/about-us.html)
+05:17:47	Error: 	"Not Found" (404) at link https://gracehaiirandbeauty.vercel.app/htdocs_error/page_not_found.svg (from https://gracehaiirandbeauty.vercel.app/css/owl.video.play.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 17 seconds : 99 links scanned, 92 files written (5701157 bytes overall) [4235494 bytes received at 55006 bytes/sec], 2306940 bytes transferred using HTTP compression in 55 files, ratio 33%
+(6 errors, 0 warnings, 0 messages)
